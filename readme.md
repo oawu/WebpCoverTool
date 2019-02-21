@@ -8,3 +8,6 @@
 * 將要轉換的圖片放到 `ori` 目錄下
 * 終端機進入 `cmd` 目錄，並且輸入指令 `node Cover.js` 按下 `enter` 後即可開始
 * 產生完後的檔案會存在 `webp` 目錄內
+
+## 資源
+* 引用 [Sharp](https://github.com/lovell/sharp) 轉換

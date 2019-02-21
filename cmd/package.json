@@ -1,0 +1,23 @@
+{
+  "name": "WebpCoverTool",
+  "version": "1.0.0",
+  "description": "轉換吧！Web 批批",
+  "private": true,
+  "scripts": {
+    "watch": "node watch"
+  },
+  "keywords": [
+    "webp",
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/comdan66/WebpCoverTool"
+  },
+  "author": "OA Wu",
+  "license": "MIT",
+  "dependencies": {
+    "sharp": "^0.21.3",
+    "sprintf-js": "^1.1.1"
+  }
+}
